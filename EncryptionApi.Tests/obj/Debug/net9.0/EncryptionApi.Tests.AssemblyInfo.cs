@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EncryptionApi.Tests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+de567a42d91a07484aa1232eb49879c48f93190b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+79e9659ecda8c702733a4ab962b37d85dde61267")]
 [assembly: System.Reflection.AssemblyProductAttribute("EncryptionApi.Tests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EncryptionApi.Tests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
